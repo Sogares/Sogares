@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Littoria](https://github.com/playlittoria)  
   
 
-- 👨‍💻 I’m a developer since 2014  
+- 👨‍💻 I’m developer since 2014  
   
 
 
