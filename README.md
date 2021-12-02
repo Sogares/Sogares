@@ -1,20 +1,20 @@
-## I'm GetVance 👋!  
+## I'm Sogares 👋!  
   
 
-- 🔭 I’m currently working on private web repositories
+- 🔭 I’m currently working on private repositories
   
 
-- 👨‍💻 I’m developer since 2014  
+- 👨‍💻 I’m developer since 2013  
   
 
 
 
 ### Social
   
-<a href="https://github.com/GetVance" target="_blank">
+<a href="https://github.com/Sogares" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/GetVanc" target="_blank">
+<a href="https://twitter.com/Sogares_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
   
