@@ -61,14 +61,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GetVance&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+</td></tr></table> 
 
   
